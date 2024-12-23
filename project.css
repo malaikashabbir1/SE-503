@@ -21,8 +21,8 @@ body{
     font-size: 2rems;
     width:280px; 
     height:100vh; 
-    background-color: #FAF7F0;
-    color:#B17457;
+    background-color: #7e9899;
+    color:#2f1103;
     overflow:auto;
 }
 
@@ -40,7 +40,7 @@ body{
 .sidebar_menu {
     padding: 1.5rem 0rem;
     opacity:1;
-    color:#4A4947;
+    color:#bba270;
 }
 
 .menu {
@@ -52,8 +52,8 @@ body{
 }
 
 .menu:hover {
-    background-color: #D8D2C2;
-    box-shadow: 0 0 7px rgba(255, 230, 230,0.7);
+    background-color: #eb95d0;
+    box-shadow: 0 0 7px #d90ad6b3;
     font-size:1.1rem;
     cursor:pointer;
 }
@@ -75,8 +75,8 @@ body{
 
 .jeans_menu:hover {
     
-    background-color:#D8D2C2;
-    box-shadow: 0 0 7px rgba(255, 230, 230,0.7);
+    background-color:#c9e4ea;
+    box-shadow: 0 0 7px rgba(13, 18, 39, 0.7);
     font-size:1.1rem;
     font-weight: 500;
     cursor:pointer;
@@ -93,7 +93,7 @@ body{
     width:12.8rem;
     height:2rem;
     padding: 0.5rem 1rem;
-    color:#4A4947;
+    color:#7b0e85;
 }
 
 .end:hover {
@@ -103,8 +103,8 @@ body{
 
 .main_content {
     width:max-content;
-    background-color: #B17457;
-    color:#4A4947;
+    background-color: #b89c8f;
+    color:#5f4104;
     flex:1;
     overflow: auto;
 }
@@ -122,7 +122,7 @@ body{
 }
 #new_arrival {
     font-family: century gothic;
-    color:#D8D2C2;
+    color:#eeece8;
     width:24rem;
     height:4rem;
     font-size: 4rem;
@@ -135,23 +135,23 @@ body{
     height:5rem;
     font-size: 2rem;
     font-weight: 200;
-    color:#D8D2C2;
+    color:#b3f3d9;
     Margin: 0rem 2rem;
 }
 
 .shop_now {
     width:13rem;
     height:3rem;
-    background-color: #FAF7F0;
-    color:#4A4947;
+    background-color: #e3c889;
+    color:#1f1605;
     margin-left: 6rem;
     margin-top:22rem;
 }
 
 .shop_now a{
     text-decoration: none;
-    background-color:#D8D2C2;
-    color:#4A4947;
+    background-color:#f5b912;
+    color:#3f2f10;
     font-size:2rem;
     display:flex;
     justify-content: center;
